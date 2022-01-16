@@ -1,0 +1,38 @@
+@charset "UTF-8";
+
+body {
+	margin: 0;
+	padding: 0;
+}
+
+img {position: absolute;	
+}
+
+.topL {
+	left: 1389px;
+	top: 315px;
+}
+.bottomL {
+	left: 231px;
+  	top: 813px;
+}
+
+.bigL {
+	left: 728px;
+  	top: 87px;
+}
+
+.tinyL {
+	left: 1788px;
+  	top: 637px;
+}
+
+.text {
+    left: 900px;
+    top: 650px;
+    transition: all 3s ;
+   
+}
+	.text:hover {
+    visibility: hidden;
+}
